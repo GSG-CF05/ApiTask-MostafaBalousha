@@ -1,7 +1,7 @@
 # ApiTask-MostafaBalousha
 ## Latest Devices
 
-## CHECKIT [HERE]()
+## Check It [HERE]()
 
 ## Discreption
 In this site, the latest phones are reviewed and the name assigned to each phone is reviewed, and the list is automatically updated .
